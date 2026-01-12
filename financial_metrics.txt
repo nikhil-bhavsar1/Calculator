@@ -1,0 +1,1507 @@
+COMPREHENSIVE FINANCIAL METRICS FOR COMPANY EVALUATION AND VALUATION
+========================================================================
+
+TABLE OF CONTENTS
+-----------------
+1. Valuation Ratios (with formulas)
+2. Profitability Metrics (with formulas)
+3. Cash Flow Metrics (with formulas)
+4. Liquidity Metrics (with formulas)
+5. Leverage/Solvency Metrics (with formulas)
+6. Efficiency/Activity Metrics (with formulas)
+7. Growth Metrics (with formulas)
+8. Market Metrics (with formulas)
+9. Dividend Metrics (with formulas)
+10. DuPont Analysis Components (with formulas)
+11. Statistical Metrics (Variance, Standard Deviation, etc.)
+12. Complete DCF Valuation Framework
+13. Other Key Metrics (with formulas)
+14. Aswath Damodaran Valuation Formulas
+15. Benjamin Graham Formulas
+16. Modern Value Investing Additions
+
+
+========================================================================
+1. VALUATION RATIOS (WITH FORMULAS)
+========================================================================
+
+Price-to-Earnings (P/E) Ratio
+  Formula: Market Price Per Share / Earnings Per Share (EPS)
+  Alternative: Market Capitalization / Net Income
+
+Price-to-Book (P/B) Ratio
+  Formula: Market Price Per Share / Book Value Per Share
+  Where: Book Value Per Share = Total Equity / Shares Outstanding
+
+Price-to-Sales (P/S) Ratio
+  Formula: Market Price Per Share / Revenue Per Share
+  Alternative: Market Capitalization / Total Revenue
+
+Price-to-Cash Flow (P/CF) Ratio
+  Formula: Market Price Per Share / Operating Cash Flow Per Share
+  Alternative: Market Capitalization / Operating Cash Flow
+
+PEG Ratio (Price/Earnings to Growth)
+  Formula: P/E Ratio / Annual EPS Growth Rate (%)
+  Where: Growth rate is typically projected 1-3 year growth
+
+Earnings-to-Price (E/P) Ratio (Earnings Yield)
+  Formula: Earnings Per Share / Market Price Per Share
+  Alternative: Net Income / Market Capitalization
+
+Enterprise Value-to-EBITDA (EV/EBITDA)
+  Formula: Enterprise Value / EBITDA
+  Where: EV = Market Cap + Total Debt - Cash and Cash Equivalents
+
+Enterprise Value-to-EBIT (EV/EBIT)
+  Formula: Enterprise Value / EBIT
+  Where: EBIT = Earnings Before Interest and Taxes
+
+Enterprise Value-to-Sales (EV/Sales)
+  Formula: Enterprise Value / Total Revenue
+
+Enterprise Value-to-Free Cash Flow (EV/FCF)
+  Formula: Enterprise Value / Free Cash Flow
+
+Price-to-Tangible Book Value
+  Formula: Market Price Per Share / Tangible Book Value Per Share
+  Where: Tangible Book Value = Total Equity - Intangible Assets - Goodwill
+
+Price-to-Free Cash Flow (P/FCF)
+  Formula: Market Price Per Share / Free Cash Flow Per Share
+  Alternative: Market Capitalization / Free Cash Flow
+
+EV-to-Revenue
+  Formula: Enterprise Value / Total Revenue
+
+EV-to-Operating Income
+  Formula: Enterprise Value / Operating Income
+
+
+========================================================================
+2. PROFITABILITY METRICS (WITH FORMULAS)
+========================================================================
+
+Net Income
+  Formula: Total Revenue - Total Expenses
+  Alternative: Gross Profit - Operating Expenses - Interest - Taxes
+
+Gross Profit
+  Formula: Total Revenue - Cost of Goods Sold (COGS)
+
+Operating Income (EBIT)
+  Formula: Gross Profit - Operating Expenses
+  Alternative: Revenue - COGS - Operating Expenses (excluding interest & taxes)
+
+EBITDA
+  Formula: Operating Income + Depreciation + Amortization
+  Alternative: Net Income + Interest + Taxes + Depreciation + Amortization
+
+Earnings Per Share (EPS)
+  Formula: (Net Income - Preferred Dividends) / Weighted Average Shares Outstanding
+
+Diluted EPS
+  Formula: (Net Income - Preferred Dividends) / (Weighted Avg Shares + Dilutive Securities)
+
+Gross Profit Margin
+  Formula: (Gross Profit / Total Revenue) × 100
+  Alternative: [(Revenue - COGS) / Revenue] × 100
+
+Operating Margin
+  Formula: (Operating Income / Total Revenue) × 100
+  Alternative: (EBIT / Revenue) × 100
+
+Net Profit Margin
+  Formula: (Net Income / Total Revenue) × 100
+
+EBITDA Margin
+  Formula: (EBITDA / Total Revenue) × 100
+
+Return on Assets (ROA)
+  Formula: (Net Income / Average Total Assets) × 100
+  Alternative: (Net Income / Total Assets) × 100
+
+Return on Equity (ROE)
+  Formula: (Net Income / Average Shareholders' Equity) × 100
+  Alternative: (Net Income / Shareholders' Equity) × 100
+
+Return on Investment (ROI)
+  Formula: [(Current Value of Investment - Cost of Investment) / Cost of Investment] × 100
+  Alternative: (Net Profit / Total Investment) × 100
+
+Return on Invested Capital (ROIC)
+  Formula: [NOPAT / (Total Debt + Total Equity)] × 100
+  Where: NOPAT = Net Operating Profit After Tax = EBIT × (1 - Tax Rate)
+  Alternative: EBIT(1-t) / Invested Capital
+
+Return on Capital Employed (ROCE)
+  Formula: [EBIT / (Total Assets - Current Liabilities)] × 100
+  Alternative: EBIT / Capital Employed
+
+Return on Net Assets (RONA)
+  Formula: (Net Income / (Fixed Assets + Net Working Capital)) × 100
+
+Pre-Tax Profit Margin
+  Formula: (Earnings Before Tax / Total Revenue) × 100
+
+After-Tax Margin
+  Formula: (Net Income After Tax / Total Revenue) × 100
+
+Cash Return on Assets
+  Formula: (Operating Cash Flow / Average Total Assets) × 100
+
+Cash Return on Equity
+  Formula: (Operating Cash Flow / Average Shareholders' Equity) × 100
+
+
+========================================================================
+3. CASH FLOW METRICS (WITH FORMULAS)
+========================================================================
+
+Operating Cash Flow (OCF)
+  Formula: Net Income + Non-Cash Expenses + Changes in Working Capital
+  Alternative: EBITDA - Taxes Paid - Change in Net Working Capital
+
+Free Cash Flow (FCF)
+  Formula: Operating Cash Flow - Capital Expenditures
+  Alternative: OCF - CapEx
+
+Free Cash Flow to Equity (FCFE)
+  Formula: Net Income - (CapEx - Depreciation) - Change in NWC + (New Debt - Debt Repayment)
+  Alternative: OCF - CapEx + Net Borrowing
+
+Free Cash Flow to Firm (FCFF)
+  Formula: EBIT(1 - Tax Rate) + Depreciation - CapEx - Change in NWC
+  Alternative: NOPAT + Depreciation - CapEx - Change in NWC
+  Alternative: CFO + Interest Expense(1 - Tax Rate) - CapEx
+
+Cash Flow Per Share
+  Formula: Operating Cash Flow / Shares Outstanding
+  Alternative: Free Cash Flow / Shares Outstanding
+
+Free Cash Flow Margin
+  Formula: (Free Cash Flow / Total Revenue) × 100
+
+Cash Flow-to-Debt Ratio
+  Formula: Operating Cash Flow / Total Debt
+
+Operating Cash Flow Ratio
+  Formula: Operating Cash Flow / Current Liabilities
+
+Cash Flow Return on Investment (CFROI)
+  Formula: [Gross Cash Flow / Gross Investment] × 100
+  Where: Gross Cash Flow = EBITDA - Cash Taxes
+         Gross Investment = Total Assets adjusted for depreciation
+
+Unlevered Free Cash Flow
+  Formula: EBIT(1 - Tax Rate) + Depreciation - CapEx - Change in NWC
+
+Levered Free Cash Flow
+  Formula: Net Income + Depreciation - CapEx - Change in NWC - Debt Repayment + New Debt
+
+Owner Earnings (Buffett's metric)
+  Formula: Net Income + Depreciation & Amortization - CapEx - Additional Working Capital
+
+
+========================================================================
+4. LIQUIDITY METRICS (WITH FORMULAS)
+========================================================================
+
+Current Ratio
+  Formula: Current Assets / Current Liabilities
+
+Quick Ratio (Acid-Test Ratio)
+  Formula: (Current Assets - Inventory) / Current Liabilities
+  Alternative: (Cash + Marketable Securities + Accounts Receivable) / Current Liabilities
+
+Cash Ratio
+  Formula: (Cash + Cash Equivalents) / Current Liabilities
+
+Working Capital
+  Formula: Current Assets - Current Liabilities
+
+Net Working Capital Ratio
+  Formula: (Current Assets - Current Liabilities) / Total Assets
+
+Defensive Interval Ratio
+  Formula: (Cash + Marketable Securities + Accounts Receivable) / Daily Operating Expenses
+  Where: Daily Operating Expenses = Annual Operating Expenses / 365
+
+Cash Flow Coverage Ratio
+  Formula: Operating Cash Flow / Total Debt
+
+Operating Cash Flow to Current Liabilities
+  Formula: Operating Cash Flow / Current Liabilities
+
+
+========================================================================
+5. LEVERAGE/SOLVENCY METRICS (WITH FORMULAS)
+========================================================================
+
+Debt-to-Equity Ratio
+  Formula: Total Debt / Total Shareholders' Equity
+  Alternative: Total Liabilities / Total Equity
+
+Debt-to-Assets Ratio
+  Formula: Total Debt / Total Assets
+
+Debt-to-EBITDA Ratio
+  Formula: Total Debt / EBITDA
+
+Interest Coverage Ratio
+  Formula: EBIT / Interest Expense
+  Alternative: Operating Income / Interest Expense
+
+Debt Service Coverage Ratio (DSCR)
+  Formula: Net Operating Income / Total Debt Service
+  Where: Total Debt Service = Principal Repayment + Interest Payments
+
+Equity Multiplier
+  Formula: Total Assets / Total Shareholders' Equity
+  Alternative: 1 + Debt-to-Equity Ratio
+
+Financial Leverage Ratio
+  Formula: Total Assets / Total Equity
+
+Total Debt Ratio
+  Formula: Total Debt / Total Assets
+
+Long-term Debt to Equity
+  Formula: Long-term Debt / Total Shareholders' Equity
+
+Fixed Charge Coverage Ratio
+  Formula: (EBIT + Fixed Charges) / (Fixed Charges + Interest Expense)
+
+Times Interest Earned (TIE)
+  Formula: EBIT / Interest Expense
+
+Debt-to-Capital Ratio
+  Formula: Total Debt / (Total Debt + Total Equity)
+
+Net Debt-to-EBITDA
+  Formula: (Total Debt - Cash & Cash Equivalents) / EBITDA
+
+Net Debt-to-Equity
+  Formula: (Total Debt - Cash & Cash Equivalents) / Total Equity
+
+Capitalization Ratio
+  Formula: Long-term Debt / (Long-term Debt + Shareholders' Equity)
+
+
+========================================================================
+6. EFFICIENCY/ACTIVITY METRICS (WITH FORMULAS)
+========================================================================
+
+Asset Turnover Ratio
+  Formula: Net Sales / Average Total Assets
+
+Inventory Turnover Ratio
+  Formula: Cost of Goods Sold / Average Inventory
+  Alternative: Net Sales / Average Inventory
+
+Receivables Turnover Ratio
+  Formula: Net Credit Sales / Average Accounts Receivable
+
+Days Sales Outstanding (DSO)
+  Formula: (Accounts Receivable / Total Credit Sales) × 365
+  Alternative: 365 / Receivables Turnover Ratio
+
+Days Inventory Outstanding (DIO)
+  Formula: (Average Inventory / COGS) × 365
+  Alternative: 365 / Inventory Turnover Ratio
+
+Days Payable Outstanding (DPO)
+  Formula: (Accounts Payable / COGS) × 365
+  Alternative: 365 / Payables Turnover Ratio
+
+Cash Conversion Cycle (CCC)
+  Formula: DSO + DIO - DPO
+
+Payables Turnover Ratio
+  Formula: COGS / Average Accounts Payable
+
+Fixed Asset Turnover
+  Formula: Net Sales / Net Fixed Assets
+  Where: Net Fixed Assets = Gross Fixed Assets - Accumulated Depreciation
+
+Total Asset Turnover
+  Formula: Net Sales / Average Total Assets
+
+Working Capital Turnover
+  Formula: Net Sales / Average Working Capital
+
+Capital Employed Turnover
+  Formula: Revenue / Capital Employed
+  Where: Capital Employed = Total Assets - Current Liabilities
+
+Net Working Capital Turnover
+  Formula: Revenue / Net Working Capital
+
+Equity Turnover
+  Formula: Revenue / Average Shareholders' Equity
+
+
+========================================================================
+7. GROWTH METRICS (WITH FORMULAS)
+========================================================================
+
+Revenue Growth Rate
+  Formula: [(Current Period Revenue - Previous Period Revenue) / Previous Period Revenue] × 100
+
+Earnings Growth Rate
+  Formula: [(Current Period Earnings - Previous Period Earnings) / Previous Period Earnings] × 100
+
+EPS Growth Rate
+  Formula: [(Current EPS - Previous EPS) / Previous EPS] × 100
+
+Compound Annual Growth Rate (CAGR)
+  Formula: [(Ending Value / Beginning Value)^(1/Number of Years) - 1] × 100
+
+Year-over-Year (YoY) Growth
+  Formula: [(Current Year Value - Previous Year Value) / Previous Year Value] × 100
+
+Quarter-over-Quarter (QoQ) Growth
+  Formula: [(Current Quarter Value - Previous Quarter Value) / Previous Quarter Value] × 100
+
+Sustainable Growth Rate (SGR)
+  Formula: ROE × (1 - Dividend Payout Ratio)
+  Alternative: ROE × Retention Ratio
+
+Internal Growth Rate
+  Formula: (ROA × Retention Ratio) / (1 - ROA × Retention Ratio)
+  Where: Retention Ratio = 1 - Dividend Payout Ratio
+
+Dividend Growth Rate
+  Formula: [(Current Dividend - Previous Dividend) / Previous Dividend] × 100
+
+Book Value Growth Rate
+  Formula: [(Current Book Value - Previous Book Value) / Previous Book Value] × 100
+
+
+========================================================================
+8. MARKET METRICS (WITH FORMULAS)
+========================================================================
+
+Market Capitalization
+  Formula: Current Stock Price × Total Shares Outstanding
+
+Enterprise Value (EV)
+  Formula: Market Cap + Total Debt + Minority Interest + Preferred Equity - Cash and Cash Equivalents
+  Simplified: Market Cap + Net Debt
+
+Book Value
+  Formula: Total Assets - Total Liabilities - Preferred Stock
+  Alternative: Total Shareholders' Equity
+
+Book Value Per Share
+  Formula: (Total Equity - Preferred Equity) / Common Shares Outstanding
+
+Market Value
+  Formula: Current Market Price × Number of Units
+
+Market Share
+  Formula: (Company's Sales / Total Industry Sales) × 100
+
+Total Addressable Market (TAM)
+  Formula: Annual Market Demand × Average Selling Price
+
+Float
+  Formula: Shares Outstanding - Restricted Shares - Insider Holdings
+
+Shares Outstanding
+  Formula: Issued Shares - Treasury Shares
+
+Institutional Ownership Percentage
+  Formula: (Shares Held by Institutions / Total Shares Outstanding) × 100
+
+Shares Outstanding
+  Formula: Issued Shares - Treasury Shares
+
+Shares Outstanding (Alternative - from Capital Structure)
+  Formula: Paid-Up Equity Share Capital / Face Value Per Share
+  Note: Common in markets where share capital is reported on balance sheet
+  Where: Paid-Up Capital = Total subscribed and paid-up equity capital
+         Face Value = Par value or nominal value per share
+
+
+========================================================================
+9. DIVIDEND METRICS (WITH FORMULAS)
+========================================================================
+
+Dividend Yield
+  Formula: (Annual Dividends Per Share / Current Stock Price) × 100
+
+Dividend Payout Ratio
+  Formula: (Dividends Per Share / Earnings Per Share) × 100
+  Alternative: (Total Dividends / Net Income) × 100
+
+Dividend Coverage Ratio
+  Formula: Earnings Per Share / Dividends Per Share
+  Alternative: Net Income / Total Dividends Paid
+
+Dividend Per Share (DPS)
+  Formula: Total Dividends Paid / Number of Shares Outstanding
+
+Retention Ratio (Plowback Ratio)
+  Formula: 1 - Dividend Payout Ratio
+  Alternative: (Net Income - Dividends) / Net Income
+
+Cash Dividend Payout Ratio
+  Formula: Cash Dividends Paid / Operating Cash Flow
+
+
+========================================================================
+10. DUPONT ANALYSIS COMPONENTS (WITH FORMULAS)
+========================================================================
+
+3-Step DuPont Formula
+  ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
+  ROE = (Net Income / Revenue) × (Revenue / Total Assets) × (Total Assets / Equity)
+
+5-Step DuPont Formula
+  ROE = Tax Burden × Interest Burden × EBIT Margin × Asset Turnover × Equity Multiplier
+  
+  Where:
+  Tax Burden = Net Income / Pretax Income
+  Interest Burden = Pretax Income / EBIT
+  EBIT Margin = EBIT / Revenue
+  Asset Turnover = Revenue / Total Assets
+  Equity Multiplier = Total Assets / Shareholders' Equity
+
+
+========================================================================
+11. STATISTICAL METRICS (VARIANCE, STANDARD DEVIATION, ETC.)
+========================================================================
+
+VARIANCE
+--------
+
+Sample Variance (s²)
+  Formula: Σ(xi - x̄)² / (n - 1)
+  Where: xi = each value
+         x̄ = sample mean
+         n = number of observations
+
+Population Variance (σ²)
+  Formula: Σ(xi - μ)² / N
+  Where: μ = population mean
+         N = population size
+
+Portfolio Variance (Two Assets)
+  Formula: w₁²σ₁² + w₂²σ₂² + 2w₁w₂Cov(1,2)
+  Where: w = weight of each asset
+         σ² = variance of each asset
+         Cov = covariance between assets
+
+
+STANDARD DEVIATION
+------------------
+
+Sample Standard Deviation (s)
+  Formula: √[Σ(xi - x̄)² / (n - 1)]
+
+Population Standard Deviation (σ)
+  Formula: √[Σ(xi - μ)² / N]
+
+Returns Standard Deviation (Volatility)
+  Formula: √[Σ(Ri - R̄)² / (n - 1)]
+  Where: Ri = return in period i
+         R̄ = average return
+
+
+COVARIANCE
+----------
+
+Sample Covariance
+  Formula: Cov(X,Y) = Σ[(xi - x̄)(yi - ȳ)] / (n - 1)
+
+Population Covariance
+  Formula: Cov(X,Y) = Σ[(xi - μx)(yi - μy)] / N
+
+
+CORRELATION
+-----------
+
+Correlation Coefficient (Pearson's r)
+  Formula: r = Cov(X,Y) / (σx × σy)
+  Formula: r = Σ[(xi - x̄)(yi - ȳ)] / √[Σ(xi - x̄)² × Σ(yi - ȳ)²]
+  Range: -1 to +1
+
+
+COEFFICIENT OF VARIATION (CV)
+------------------------------
+
+Coefficient of Variation
+  Formula: (Standard Deviation / Mean) × 100
+  Formula: (σ / μ) × 100
+
+
+BETA (SYSTEMATIC RISK)
+----------------------
+
+Beta
+  Formula: β = Cov(Ri, Rm) / Var(Rm)
+  Where: Ri = return of investment
+         Rm = return of market
+  
+  Alternative: β = (Correlation × σi) / σm
+
+
+SHARPE RATIO
+------------
+
+Sharpe Ratio
+  Formula: (Rp - Rf) / σp
+  Where: Rp = portfolio return
+         Rf = risk-free rate
+         σp = standard deviation of portfolio
+
+
+TREYNOR RATIO
+-------------
+
+Treynor Ratio
+  Formula: (Rp - Rf) / βp
+  Where: βp = portfolio beta
+
+
+INFORMATION RATIO
+-----------------
+
+Information Ratio
+  Formula: (Rp - Rb) / Tracking Error
+  Where: Rb = benchmark return
+         Tracking Error = standard deviation of (Rp - Rb)
+
+
+SORTINO RATIO
+-------------
+
+Sortino Ratio
+  Formula: (Rp - Rf) / Downside Deviation
+  Where: Downside Deviation = √[Σ(min(Ri - MAR, 0))² / n]
+         MAR = Minimum Acceptable Return
+
+
+VALUE AT RISK (VaR)
+-------------------
+
+Parametric VaR (Normal Distribution)
+  Formula: VaR = Portfolio Value × z-score × σ × √t
+  Where: z-score = confidence level (e.g., 1.65 for 95%, 2.33 for 99%)
+         σ = standard deviation of returns
+         t = time horizon
+
+
+MEAN (AVERAGE)
+--------------
+
+Arithmetic Mean
+  Formula: x̄ = Σxi / n
+
+Weighted Average
+  Formula: x̄w = Σ(wi × xi) / Σwi
+
+Geometric Mean (for returns)
+  Formula: [(1 + R₁) × (1 + R₂) × ... × (1 + Rn)]^(1/n) - 1
+
+
+========================================================================
+12. COMPLETE DCF VALUATION FRAMEWORK
+========================================================================
+
+DISCOUNTED CASH FLOW (DCF) - FCFF METHOD
+-----------------------------------------
+
+Step 1: Calculate Free Cash Flow to Firm (FCFF)
+  FCFF = EBIT(1 - Tax Rate) + Depreciation - CapEx - Change in NWC
+  
+  Alternative formulas:
+  FCFF = NOPAT + Depreciation - CapEx - Change in NWC
+  FCFF = CFO + Interest Expense(1 - Tax Rate) - CapEx
+  FCFF = Net Income + Interest(1 - Tax Rate) + Depreciation - CapEx - Change in NWC
+
+Step 2: Calculate Weighted Average Cost of Capital (WACC)
+  WACC = (E/V × Re) + (D/V × Rd × (1 - Tc))
+  
+  Where:
+  E = Market value of equity
+  D = Market value of debt
+  V = E + D (total firm value)
+  Re = Cost of equity
+  Rd = Cost of debt
+  Tc = Corporate tax rate
+
+Step 3: Calculate Cost of Equity (CAPM)
+  Re = Rf + β × (Rm - Rf)
+  
+  Where:
+  Rf = Risk-free rate
+  β = Beta (systematic risk)
+  Rm = Expected market return
+  (Rm - Rf) = Market risk premium
+
+Step 4: Calculate Terminal Value
+  
+  Gordon Growth Model:
+  TV = FCFFn+1 / (WACC - g)
+  Where: FCFFn+1 = FCFF in year n+1
+         g = perpetual growth rate (typically 2-3%)
+  
+  Exit Multiple Method:
+  TV = EV/EBITDA multiple × EBITDAn
+  Or: TV = P/E multiple × Earningsn
+
+Step 5: Discount Cash Flows
+  PV of FCFF = FCFF₁/(1+WACC)¹ + FCFF₂/(1+WACC)² + ... + FCFFn/(1+WACC)ⁿ
+  PV of TV = TV / (1 + WACC)ⁿ
+
+Step 6: Calculate Enterprise Value
+  Enterprise Value = PV of FCFF during projection period + PV of Terminal Value
+
+Step 7: Calculate Equity Value
+  Equity Value = Enterprise Value - Net Debt - Preferred Stock + Non-Operating Assets
+  Where: Net Debt = Total Debt - Cash and Cash Equivalents
+
+Step 8: Calculate Fair Value Per Share
+  Fair Value Per Share = Equity Value / Shares Outstanding
+
+
+DISCOUNTED CASH FLOW (DCF) - FCFE METHOD
+-----------------------------------------
+
+Step 1: Calculate Free Cash Flow to Equity (FCFE)
+  FCFE = Net Income - (CapEx - Depreciation) - Change in NWC + (New Debt - Debt Repayment)
+  
+  Alternative:
+  FCFE = FCFF - Interest(1 - Tax Rate) + Net Borrowing
+
+Step 2: Calculate Cost of Equity
+  Re = Rf + β × (Rm - Rf)
+
+Step 3: Calculate Terminal Value
+  TV = FCFEn+1 / (Re - g)
+
+Step 4: Discount Cash Flows
+  PV of FCFE = FCFE₁/(1+Re)¹ + FCFE₂/(1+Re)² + ... + FCFEn/(1+Re)ⁿ
+  PV of TV = TV / (1 + Re)ⁿ
+
+Step 5: Calculate Equity Value
+  Equity Value = PV of FCFE during projection period + PV of Terminal Value
+
+Step 6: Calculate Fair Value Per Share
+  Fair Value Per Share = Equity Value / Shares Outstanding
+
+
+DIVIDEND DISCOUNT MODEL (DDM)
+------------------------------
+
+Gordon Growth Model (Constant Growth DDM)
+  P₀ = D₁ / (Re - g)
+  
+  Where:
+  P₀ = Current stock price
+  D₁ = Expected dividend next year = D₀(1 + g)
+  Re = Required rate of return (cost of equity)
+  g = Constant growth rate of dividends
+
+Two-Stage DDM
+  P₀ = Σ[Dt/(1+Re)ᵗ] + [Pn/(1+Re)ⁿ]
+  Where: Pn = Dn+1 / (Re - g) for stable growth phase
+
+Multi-Stage DDM
+  P₀ = PV(High Growth Dividends) + PV(Transition Dividends) + PV(Stable Growth Dividends)
+
+
+ADJUSTED PRESENT VALUE (APV)
+-----------------------------
+
+APV = Unlevered Firm Value + PV of Financing Side Effects
+
+Unlevered Firm Value:
+  VU = Σ[FCFF/(1+Ru)ᵗ] + TV/(1+Ru)ⁿ
+  Where: Ru = Unlevered cost of equity
+
+PV of Tax Shield:
+  PV(Tax Shield) = Σ[Interest × Tax Rate / (1+Rd)ᵗ]
+  
+  Perpetual debt: PV(Tax Shield) = Debt × Tax Rate
+
+Total APV:
+  APV = Unlevered Value + PV(Tax Shield) - PV(Financial Distress Costs)
+
+
+========================================================================
+13. OTHER KEY METRICS (WITH FORMULAS)
+========================================================================
+
+Economic Value Added (EVA)
+  Formula: NOPAT - (WACC × Invested Capital)
+  Alternative: (ROIC - WACC) × Invested Capital
+  Where: NOPAT = Net Operating Profit After Tax
+
+Market Value Added (MVA)
+  Formula: Market Value of Firm - Invested Capital
+  Alternative: Market Capitalization - Book Value of Equity
+
+Shareholder Value Added (SVA)
+  Formula: (Return on Investment - Cost of Capital) × Invested Capital
+
+Altman Z-Score (Bankruptcy Prediction)
+  For Public Manufacturing Companies:
+  Z = 1.2A + 1.4B + 3.3C + 0.6D + 1.0E
+  
+  Where:
+  A = Working Capital / Total Assets
+  B = Retained Earnings / Total Assets
+  C = EBIT / Total Assets
+  D = Market Value of Equity / Book Value of Total Liabilities
+  E = Sales / Total Assets
+  
+  Interpretation:
+  Z > 2.99 = Safe zone
+  1.81 < Z < 2.99 = Grey zone
+  Z < 1.81 = Distress zone
+
+Piotroski F-Score (Quality Assessment)
+  Score range: 0-9 (sum of nine binary scores)
+  
+  Profitability (4 points):
+  1. ROA > 0 (1 point)
+  2. Operating Cash Flow > 0 (1 point)
+  3. ROA increase YoY (1 point)
+  4. Operating Cash Flow > Net Income (1 point)
+  
+  Leverage, Liquidity, Source of Funds (3 points):
+  5. Decrease in long-term debt (1 point)
+  6. Increase in current ratio (1 point)
+  7. No new shares issued (1 point)
+  
+  Operating Efficiency (2 points):
+  8. Increase in gross margin (1 point)
+  9. Increase in asset turnover (1 point)
+
+Beneish M-Score (Earnings Manipulation Detection)
+  M = -4.84 + 0.92×DSRI + 0.528×GMI + 0.404×AQI + 0.892×SGI + 0.115×DEPI 
+      - 0.172×SGAI + 4.679×TATA - 0.327×LVGI
+  
+  Where:
+  DSRI = Days Sales in Receivables Index
+  GMI = Gross Margin Index
+  AQI = Asset Quality Index
+  SGI = Sales Growth Index
+  DEPI = Depreciation Index
+  SGAI = Sales, General & Admin Expenses Index
+  TATA = Total Accruals to Total Assets
+  LVGI = Leverage Index
+  
+  Interpretation:
+  M > -1.78 = Likely manipulator
+
+Beta (Systematic Risk)
+  Formula: Cov(Ri, Rm) / Var(Rm)
+  Alternative: ρi,m × (σi / σm)
+  Where: ρ = correlation coefficient
+
+Alpha (Jensen's Alpha)
+  Formula: αi = Ri - [Rf + βi(Rm - Rf)]
+  Where: Ri = Actual return of investment
+
+Tobin's Q Ratio
+  Formula: Market Value of Firm / Replacement Cost of Assets
+  Alternative: (Market Cap + Total Debt) / Total Assets
+  
+  Interpretation:
+  Q > 1 = Market values firm higher than asset replacement cost
+  Q < 1 = Market values firm lower than asset replacement cost
+
+Earnings Quality Ratio
+  Formula: Operating Cash Flow / Net Income
+  
+  Interpretation:
+  > 1.0 = High quality earnings
+  < 1.0 = Lower quality earnings
+
+Accruals Ratio
+  Formula: (Net Income - Operating Cash Flow) / Total Assets
+  
+  High accruals may indicate earnings manipulation
+
+
+========================================================================
+14. ASWATH DAMODARAN VALUATION FORMULAS
+========================================================================
+
+COST OF CAPITAL FORMULAS
+-------------------------
+
+Cost of Equity (CAPM)
+  Re = Rf + β × ERP
+  Where: ERP = Equity Risk Premium = (Rm - Rf)
+
+Cost of Equity (Multi-Factor Model)
+  Re = Rf + β₁(Factor 1 Premium) + β₂(Factor 2 Premium) + ...
+
+Cost of Equity (Build-Up Method)
+  Re = Rf + Equity Risk Premium + Size Premium + Industry Risk Premium + Company-Specific Risk
+
+Cost of Debt
+  Rd = Interest Expense / Average Debt Outstanding
+  Alternative: Rd = YTM on company's bonds
+
+After-Tax Cost of Debt
+  Rd(after-tax) = Rd × (1 - Tax Rate)
+
+Weighted Average Cost of Capital (WACC)
+  WACC = (E/V)×Re + (D/V)×Rd×(1-T) + (P/V)×Rp
+  Where: P = Preferred stock, Rp = Cost of preferred stock
+
+
+BETA CALCULATIONS
+-----------------
+
+Levered Beta (Adding Financial Leverage)
+  βL = βU × [1 + (1 - T) × (D/E)]
+  Where: βL = Levered beta
+         βU = Unlevered beta
+         T = Tax rate
+         D/E = Debt-to-equity ratio
+
+Unlevered Beta (Removing Financial Leverage)
+  βU = βL / [1 + (1 - T) × (D/E)]
+
+Adjusted Beta (Bloomberg Method)
+  Adjusted β = (0.67 × Raw β) + (0.33 × 1.0)
+
+Bottom-Up Beta
+  βFirm = Σ(Business Segment Weightᵢ × βUnlevered,i) × [1 + (1-T) × (D/E)]
+
+
+COUNTRY RISK PREMIUM
+--------------------
+
+Country Risk Premium (Relative Volatility Method)
+  CRP = Country Default Spread × (σEquity,Country / σBond,Country)
+  
+Total Cost of Equity (with Country Risk)
+  Re = Rf + β × Mature Market ERP + Country Risk Premium
+
+
+GROWTH RATE FORMULAS
+--------------------
+
+Fundamental Growth Rate (Equity Perspective)
+  g = ROE × Retention Ratio
+  Where: Retention Ratio = 1 - Payout Ratio
+
+Fundamental Growth Rate (Firm Perspective)
+  g = Return on Capital × Reinvestment Rate
+
+Expected Growth Rate (Historical)
+  g = (Ending Value / Beginning Value)^(1/n) - 1
+
+Reinvestment Rate
+  Reinvestment Rate = (CapEx - Depreciation + ΔWC) / EBIT(1-T)
+  Alternative: (Net CapEx + ΔWC) / NOPAT
+
+
+FREE CASH FLOW FORMULAS (COMPREHENSIVE)
+----------------------------------------
+
+FCFF (From Operating Income)
+  FCFF = EBIT(1 - Tax Rate) + Depreciation - CapEx - ΔWorking Capital
+
+FCFF (From Net Income)
+  FCFF = Net Income + Interest(1-T) + Depreciation - CapEx - ΔWC
+
+FCFF (From Cash Flow Statement)
+  FCFF = CFO + Interest(1-T) - CapEx
+
+FCFE (From Net Income)
+  FCFE = Net Income - (CapEx - Depreciation) - ΔWC + (New Debt - Debt Repayment)
+
+FCFE (From FCFF)
+  FCFE = FCFF - Interest(1-T) + Net Borrowing
+  Where: Net Borrowing = New Debt - Debt Repayment
+
+FCFE (From CFO)
+  FCFE = CFO - CapEx + Net Borrowing
+
+
+TERMINAL VALUE FORMULAS
+------------------------
+
+Terminal Value (Gordon Growth Model)
+  TV = FCFn+1 / (WACC - g)
+  Where: FCFn+1 = FCFn × (1 + g)
+
+Terminal Value (Exit Multiple - EBITDA)
+  TV = Exit Multiple × EBITDAn
+
+Terminal Value (Exit Multiple - EBIT)
+  TV = Exit Multiple × EBITn
+
+Terminal Value (Exit Multiple - Sales)
+  TV = Exit Multiple × Salesn
+
+Stable Period FCFF
+  FCFF (stable) = EBIT(1-T) × (1 - Reinvestment Rate)
+  Where: Reinvestment Rate = g / Return on Capital
+
+
+INTRINSIC VALUATION FORMULAS
+-----------------------------
+
+Value of Firm (DCF - FCFF)
+  Firm Value = Σ[FCFFt / (1+WACC)^t] + [TVn / (1+WACC)^n]
+
+Value of Equity (DCF - FCFE)
+  Equity Value = Σ[FCFEt / (1+Re)^t] + [TVn / (1+Re)^n]
+
+Value of Equity (from Firm Value)
+  Equity Value = Firm Value + Cash - Debt - Preferred Stock - Minority Interest
+
+Value Per Share
+  Value Per Share = Equity Value / Shares Outstanding
+
+
+ADJUSTED PRESENT VALUE (APV) FORMULAS
+--------------------------------------
+
+Value of Unlevered Firm
+  VU = Σ[FCFF / (1+Ru)^t] + TVU
+  Where: Ru = Unlevered cost of equity
+
+Unlevered Cost of Equity
+  Ru = Rf + βU × ERP
+
+Present Value of Tax Shield (Perpetual Debt)
+  PV(Tax Shield) = Tax Rate × Debt
+
+Present Value of Tax Shield (Changing Debt)
+  PV(Tax Shield) = Σ[Interest × Tax Rate / (1+Rd)^t]
+
+Total APV
+  APV = VU + PV(Tax Shield) - PV(Bankruptcy Costs)
+
+
+RELATIVE VALUATION FORMULAS
+----------------------------
+
+Justified P/E (Stable Growth)
+  P/E = Payout Ratio × (1 + g) / (Re - g)
+  Alternative: P/E = (1 - Retention Ratio) × (1 + g) / (Re - g)
+
+Justified P/E (High Growth to Stable)
+  P/E = [PR × (1+g) × (1 - (1+g)^n/(1+r)^n)] / [(r-g) × (1+r)^n] + [PR × (1+gn) / (r-gn) × (1+r)^n]
+
+Justified P/B Ratio
+  P/B = (ROE - g) / (Re - g)
+
+Justified P/S Ratio
+  P/S = [Profit Margin × Payout Ratio × (1+g)] / (Re - g)
+
+Justified EV/EBITDA
+  EV/EBITDA = [(1-T) × (1 - Reinvestment Rate) × (1+g)] / (WACC - g)
+
+Justified EV/Sales
+  EV/Sales = [Operating Margin × (1-T) × (1 - Reinvestment Rate) × (1+g)] / (WACC - g)
+
+PEG Ratio (Damodaran Version)
+  PEG = P/E / Expected Growth Rate
+  Fair Value PEG ≈ 1.0 (assuming standard risk and payout)
+
+
+EXCESS RETURN MODELS
+---------------------
+
+Economic Value Added (EVA)
+  EVA = (ROIC - WACC) × Invested Capital
+  Alternative: EVA = NOPAT - (WACC × Invested Capital)
+
+Value of Firm (EVA Model)
+  Firm Value = Invested Capital + PV of Expected EVA
+
+Market Value Added (MVA)
+  MVA = Market Value of Firm - Invested Capital
+
+
+OPTION PRICING MODELS
+----------------------
+
+Black-Scholes Call Option Value
+  C = S₀N(d₁) - Ke^(-rT)N(d₂)
+  
+  Where:
+  d₁ = [ln(S₀/K) + (r + σ²/2)T] / (σ√T)
+  d₂ = d₁ - σ√T
+  S₀ = Current stock price
+  K = Strike price
+  r = Risk-free rate
+  T = Time to expiration
+  σ = Volatility
+  N(d) = Cumulative normal distribution
+
+Black-Scholes Put Option Value
+  P = Ke^(-rT)N(-d₂) - S₀N(-d₁)
+
+
+REAL OPTIONS VALUATION
+-----------------------
+
+Option to Expand
+  Value = PV(Expected Cash Flows) × N(d₁) - Investment Cost × e^(-rT) × N(d₂)
+
+Option to Abandon
+  Value = Abandonment Value × e^(-rT) × N(-d₂) - PV(Continuing) × N(-d₁)
+
+
+PRIVATE COMPANY VALUATION ADJUSTMENTS
+--------------------------------------
+
+Lack of Marketability Discount
+  Discount = 20-35% (typical range)
+  Adjusted Value = Base Value × (1 - Discount)
+
+Control Premium
+  Premium = 20-40% (typical range)
+  Value with Control = Minority Value × (1 + Premium)
+
+Key Person Discount
+  Discount varies based on replaceability and importance
+
+
+========================================================================
+15. BENJAMIN GRAHAM FORMULAS
+========================================================================
+
+GRAHAM NUMBER (MAXIMUM FAIR VALUE)
+-----------------------------------
+
+Graham Number
+  Formula: √(22.5 × EPS × BVPS)
+  Where: BVPS = Book Value Per Share
+  
+  Interpretation: Stock is undervalued if trading below Graham Number
+  
+  Derivation: Based on max P/E of 15 and max P/B of 1.5
+  15 × 1.5 = 22.5
+
+
+INTRINSIC VALUE FORMULAS
+-------------------------
+
+Original Graham Formula (1962)
+  Intrinsic Value = EPS × (8.5 + 2g)
+  
+  Where:
+  EPS = Trailing 12-month earnings per share
+  8.5 = P/E base for no-growth company
+  g = Expected annual growth rate (next 7-10 years)
+
+Revised Graham Formula (1974 - with bond yields)
+  Intrinsic Value = [EPS × (8.5 + 2g) × 4.4] / Y
+  
+  Where:
+  Y = Current yield on AAA corporate bonds
+  4.4 = Average AAA bond yield when formula created
+  
+  This adjusts for interest rate environment
+
+
+NET CURRENT ASSET VALUE (NCAV)
+-------------------------------
+
+NCAV Per Share
+  NCAV = (Current Assets - Total Liabilities) / Shares Outstanding
+
+Graham's NCAV Buy Rule
+  Buy when: Stock Price < (2/3 × NCAV)
+  
+  Conservative variation: Price < 0.5 × NCAV
+
+Net-Net Working Capital
+  Net-Net = (Current Assets - Total Liabilities) - (0.5 × Inventory)
+  Per Share = Net-Net / Shares Outstanding
+
+
+DEFENSIVE INVESTOR CRITERIA (GRAHAM'S CHECKLIST)
+-------------------------------------------------
+
+1. Company Size
+   Annual sales > $100 million (adjust for inflation)
+   Today's equivalent: > $500 million
+
+2. Financial Condition
+   Current Ratio ≥ 2.0
+   Formula: Current Assets / Current Liabilities ≥ 2.0
+
+3. Debt Level
+   Long-term Debt < 2 × Net Current Assets
+   Formula: LT Debt / (Current Assets - Current Liabilities) < 2.0
+   
+   Alternative for utilities: Debt < 2 × Equity
+
+4. Earnings Stability
+   Positive earnings in each of past 10 years
+   No losses allowed
+
+5. Dividend Record
+   Uninterrupted dividends for past 20 years
+   At least some dividend in every year
+
+6. Earnings Growth
+   Minimum 33% increase over past 10 years
+   Formula: (Current 3-yr avg EPS / 3-yr avg EPS 10 years ago) ≥ 1.33
+
+7. P/E Ratio
+   Current P/E ≤ 15
+   Formula: Stock Price / (3-year average EPS) ≤ 15
+
+8. P/B Ratio
+   P/B ≤ 1.5
+   Formula: Stock Price / Book Value Per Share ≤ 1.5
+
+9. Combined P/E and P/B
+   P/E × P/B ≤ 22.5
+   Allows some flexibility: high P/E with low P/B, or vice versa
+
+
+ENTERPRISING INVESTOR CRITERIA
+-------------------------------
+
+1. Financial Condition
+   Current Assets ≥ 1.5 × Current Liabilities
+   Formula: Current Ratio ≥ 1.5
+
+2. Debt to Working Capital
+   Total Debt < 110% of Net Current Assets
+   Formula: Total Debt / (Current Assets - Current Liabilities) < 1.1
+
+3. Earnings Stability
+   No deficit (loss) in last 5 years
+   All 5 years must show positive earnings
+
+4. Dividend Record
+   Some current dividend being paid
+   (Less stringent than defensive investor)
+
+5. Earnings Growth
+   Last year's EPS > EPS from 5 years ago
+   Any positive growth acceptable
+
+6. Price Limit
+   Price < 120% of Net Tangible Assets
+   Formula: Price / (Book Value - Intangibles) < 1.2
+
+
+MARGIN OF SAFETY FORMULAS
+--------------------------
+
+Margin of Safety (Percentage)
+  MOS = [(Intrinsic Value - Market Price) / Intrinsic Value] × 100
+
+Graham's Minimum MOS
+  Buy only with ≥ 33% margin of safety
+  Preferred: ≥ 50% margin of safety
+  
+  Formula: Market Price ≤ (0.67 × Intrinsic Value)  [33% MOS]
+  Formula: Market Price ≤ (0.50 × Intrinsic Value)  [50% MOS]
+
+
+ASSET-BASED VALUATION METHODS
+------------------------------
+
+Liquidation Value Per Share
+  Formula: (Current Assets - Total Liabilities - Preferred Stock) / Common Shares
+  
+  Conservative estimate:
+  Liquidation = (0.75 × Receivables) + (0.5 × Inventory) + Cash - Total Liabilities
+
+Book Value Per Share (Tangible)
+  Formula: (Total Equity - Intangible Assets - Goodwill) / Shares Outstanding
+
+Reproduction Value
+  Estimated cost to reproduce company's assets at current prices
+  (Difficult to calculate precisely)
+
+
+EARNINGS POWER VALUE (EPV)
+---------------------------
+
+EPV Formula
+  EPV = Adjusted Earnings / Required Rate of Return
+  EPV = Adjusted Earnings × (1 / R)
+
+Adjusted Earnings Calculation
+  Start with: Reported EBIT
+  Adjust for: One-time items, unusual expenses
+  Subtract: Maintenance CapEx
+  Subtract: Taxes
+  = Adjusted Earnings (sustainable earnings)
+
+Full EPV with Growth
+  Value = EPV + PV(Growth)
+  Where: PV(Growth) = NPV of future investments
+
+
+WORKING CAPITAL FORMULAS
+-------------------------
+
+Net Working Capital
+  NWC = Current Assets - Current Liabilities
+
+Working Capital Ratio
+  WC Ratio = (Current Assets - Current Liabilities) / Total Assets
+
+Graham's Working Capital Rule
+  For industrials: NWC should be ≥ 50% of total debt
+
+
+GRAHAM'S CENTRAL VALUE CONCEPT
+-------------------------------
+
+Central Value (Simplified)
+  Value = Assets + (Multiplier × Earning Power)
+  
+  Where typical multiplier = 10-15 for average company
+
+
+========================================================================
+16. MODERN VALUE INVESTING ADDITIONS
+========================================================================
+
+BUFFETT-STYLE METRICS
+----------------------
+
+Owner Earnings (Buffett's Formula)
+  Owner Earnings = Net Income + D&A + Other Non-Cash Charges - Average Annual CapEx - Additional WC Requirements
+
+Look-Through Earnings
+  Look-Through = Reported Earnings + Share of Undistributed Earnings from Investees
+
+Intrinsic Value Growth Rate
+  Growth Rate = (1 - Dividend Payout Ratio) × Return on Retained Earnings
+
+Return on Retained Earnings
+  Return = Change in EPS / Cumulative Retained Earnings per Share
+
+
+ECONOMIC MOAT INDICATORS
+-------------------------
+
+Return Spread
+  Return Spread = ROIC - WACC
+  Strong moat: Spread > 5% sustained over time
+
+Return on Tangible Capital
+  ROTC = NOPAT / (Net Working Capital + Net Fixed Assets)
+
+Customer Switching Costs (Qualitative)
+  - Measured by customer retention rates
+  - Assessed through customer lifetime value
+
+Pricing Power Test
+  Pricing Power = % Price Increase with < 10% volume loss
+
+
+JOEL GREENBLATT'S MAGIC FORMULA
+---------------------------------
+
+Earnings Yield
+  Earnings Yield = EBIT / Enterprise Value
+  (Higher is better)
+
+Return on Capital
+  ROC = EBIT / (Net Working Capital + Net Fixed Assets)
+  (Higher is better)
+
+Magic Formula Process
+  1. Rank all stocks by Earnings Yield (1 = best)
+  2. Rank all stocks by ROC (1 = best)
+  3. Combine rankings (sum of both ranks)
+  4. Buy stocks with lowest combined rank
+
+
+TOBIAS CARLISLE'S FORMULAS
+---------------------------
+
+Acquirer's Multiple
+  Acquirer's Multiple = Enterprise Value / Operating Earnings
+  Where: Operating Earnings = EBIT or NOPAT
+  (Lower is better - inverse of earnings yield)
+
+
+QUANTITATIVE VALUE METRICS
+---------------------------
+
+Shareholder Yield
+  Shareholder Yield = (Dividends + Buybacks - Share Issuance) / Market Cap
+
+Net Payout Yield
+  Net Payout = (Dividends + Net Buybacks) / Market Cap
+
+Total Payout Yield
+  Total Payout = (Dividends + Buybacks + Debt Reduction) / Market Cap
+
+
+QUALITY SCORE COMPONENTS
+-------------------------
+
+Gross Profitability
+  Gross Profitability = (Revenue - COGS) / Total Assets
+
+Asset Growth (Red Flag)
+  Asset Growth = (Current Total Assets - Prior Total Assets) / Prior Total Assets
+  Negative indicator: High asset growth often precedes poor returns
+
+Accrual Ratio (Earnings Quality)
+  Accruals = (Net Income - Operating Cash Flow) / Average Total Assets
+  Lower accruals = Higher quality earnings
+
+
+FINANCIAL STRENGTH METRICS
+---------------------------
+
+Altman Z-Score for Private Companies
+  Z' = 0.717A + 0.847B + 3.107C + 0.420D + 0.998E
+  
+  Where:
+  A = Working Capital / Total Assets
+  B = Retained Earnings / Total Assets
+  C = EBIT / Total Assets
+  D = Book Value of Equity / Total Liabilities
+  E = Sales / Total Assets
+  
+  Interpretation:
+  Z' > 2.9 = Safe
+  1.23 < Z' < 2.9 = Grey
+  Z' < 1.23 = Distress
+
+Beneish M-Score (Extended)
+  [Formula provided in section 13]
+  
+  Additional red flags:
+  - DSRI increasing (receivables growing faster than sales)
+  - GMI > 1 (gross margin deteriorating)
+  - AQI increasing (asset quality declining)
+
+
+CYCLICALLY ADJUSTED METRICS
+----------------------------
+
+Normalized Earnings
+  Normalized = Average earnings over full business cycle (7-10 years)
+
+Shiller P/E (CAPE Ratio)
+  CAPE = Price / 10-Year Average Inflation-Adjusted Earnings
+
+Graham & Dodd P/E
+  G&D P/E = Current Price / Average 10-Year Earnings
+
+
+MULTI-FACTOR VALUE MODELS
+--------------------------
+
+4-Factor Value Score
+  Score = Rank(P/E) + Rank(P/B) + Rank(P/S) + Rank(Dividend Yield)
+  (Lower combined rank = more undervalued)
+
+6-Factor Quality Value
+  Score = Rank(P/E) + Rank(P/B) + Rank(EV/EBIT) + Rank(ROE) + Rank(ROA) + Rank(ROIC)
+
+
+VALUE COMPOSITE (O'SHAUGHNESSY)
+--------------------------------
+
+Value Composite = Average Percentile of:
+  - P/B Ratio
+  - P/E Ratio
+  - P/S Ratio
+  - P/CF Ratio
+  - EV/EBITDA
+  - Shareholder Yield
+
+
+DISTRESS PREDICTION MODELS
+---------------------------
+
+Ohlson O-Score
+  O = -1.32 - 0.407×SIZE + 6.03×TLTA - 1.43×WCTA + 0.076×CLCA - 1.72×OENEG 
+      - 2.37×NITA - 1.83×FUTL + 0.285×INTWO - 0.521×CHIN
+  
+  Where: SIZE, TLTA, WCTA, CLCA, OENEG, NITA, FUTL, INTWO, CHIN are financial ratios
+  Probability of Bankruptcy = 1 / (1 + e^(-O))
+
+
+MOMENTUM AND REVERSAL
+----------------------
+
+12-Month Price Momentum
+  Momentum = (Current Price / Price 12 months ago) - 1
+
+52-Week High Ratio
+  52-Week Ratio = Current Price / 52-Week High
+  
+Short-Term Reversal (Contrarian)
+  1-Month Return = (Current Price / Price 1 month ago) - 1
+  Buy recent losers, sell recent winners
+
+
+========================================================================
+APPENDIX: KEY FINANCIAL STATEMENT RELATIONSHIPS
+========================================================================
+
+INCOME STATEMENT CASCADE
+-------------------------
+Revenue (Sales)
+- Cost of Goods Sold (COGS)
+= Gross Profit
+- Operating Expenses (SG&A, R&D)
+= Operating Income (EBIT)
++/- Other Income/Expense
+- Interest Expense
+= Earnings Before Tax (EBT)
+- Income Tax
+= Net Income
+- Preferred Dividends
+= Net Income Available to Common Shareholders
+
+
+BALANCE SHEET EQUATION
+-----------------------
+Assets = Liabilities + Shareholders' Equity
+
+Current Assets + Non-Current Assets = Current Liabilities + Long-term Liabilities + Equity
+
+
+CASH FLOW STATEMENT STRUCTURE
+------------------------------
+Cash from Operating Activities (CFO)
++ Cash from Investing Activities (CFI)
++ Cash from Financing Activities (CFF)
+= Net Change in Cash
+
+
+RETAINED EARNINGS RECONCILIATION
+---------------------------------
+Beginning Retained Earnings
++ Net Income
+- Dividends Paid
+= Ending Retained Earnings
+
+
+========================================================================
+END OF COMPREHENSIVE FINANCIAL METRICS GUIDE
+========================================================================
+
+This document contains 200+ financial metrics, ratios, and valuation formulas
+including all major frameworks from:
+- Traditional financial analysis
+- Aswath Damodaran's valuation methods
+- Benjamin Graham's value investing principles
+- Modern quantitative approaches
+- Statistical and risk metrics
+- Complete DCF frameworks
+
+Last Updated: 2025
